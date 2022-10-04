@@ -7,7 +7,7 @@ import Footer from "./components/layouts/footer"
 
 export default function App() {
   return (
-    <div className="bg-sky">
+    <div className="bg-sky px-4 ">
       <Navbar />
       <div className="wrapper">
         <Routes>
